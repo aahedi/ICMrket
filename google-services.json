@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "389511063169",
+    "firebase_url": "https://basudewa-8b5da.firebaseio.com",
+    "project_id": "basudewa-8b5da",
+    "storage_bucket": "basudewa-8b5da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389511063169:android:cd7f3a21b4759be4",
+        "android_client_info": {
+          "package_name": "tokojs.com.app.basudewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389511063169-ifp19o184fopuf5m1t6itu7jp3ie57a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM9a-muef0FF4QarO2l7AYBjlrcuK5fTU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
